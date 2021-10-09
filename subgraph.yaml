@@ -1,4 +1,4 @@
-specVersion: 0.0.2
+specVersion: 0.0.3
 description: Impulseven analytics on ethereum.
 repository: https://github.com/impulseven/Subgraph
 schema:
