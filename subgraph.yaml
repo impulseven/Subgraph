@@ -1,4 +1,4 @@
-specVersion: 0.0.3
+specVersion: 0.0.2
 description: Impulseven analytics on ethereum.
 repository: https://github.com/impulseven/Subgraph
 schema:
@@ -10,7 +10,7 @@ dataSources:
     source:
       address: '0x4f6703952D3139353a7a8212414a104912C79974'
       abi: Factory
-      startBlock: 13223831
+      startBlock: 10000834
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.3
