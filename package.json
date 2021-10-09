@@ -1,7 +1,7 @@
 {
   "name": "Subgraph",
   "version": "1.0.0",
-  "repository": "https://github.com/yfdaifinance/Subgraph",
+  "repository": "https://github.com/impulseven/Subgraph",
   "license": "GPL-3.0-or-later",
   "scripts": {
     "codegen": "graph codegen --output-dir src/types/",
