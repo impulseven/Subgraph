@@ -1,5 +1,5 @@
 specVersion: 0.0.2
-description: Impulseven analytics on ethereum.
+description: Impulseven (I7) analytics on ethereum.
 repository: https://github.com/impulseven/Subgraph
 schema:
   file: ./schema.graphql
